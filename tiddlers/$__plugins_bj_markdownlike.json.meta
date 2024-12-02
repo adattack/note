@@ -1,0 +1,12 @@
+author: JeffreyWilkinson
+core-version: >=5.1.11
+dependents: 
+description: Markdown Like Wikitext Extension
+list: readme license
+name: markdownlike
+plugin-type: plugin
+source: https://github.com/buggyj/Tw5-tools
+tags: needs:/plugins/bj/flexitype
+title: $:/plugins/bj/markdownlike
+type: application/json
+version: 1.11.0
